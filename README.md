@@ -1,1 +1,1 @@
-# chess-paths
+Given a chess piece in the bottom right corner, the King is place anywhere on the chess board by the user. The program will recursively figure out the total distance between the pieces, the number of paths between the pieces, and print all the paths between the pieces. 
